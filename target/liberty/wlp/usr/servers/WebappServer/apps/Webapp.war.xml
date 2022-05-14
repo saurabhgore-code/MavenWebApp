@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+    <dir sourceOnDisk="/home/sagore/Webapp/src/main/webapp" targetInArchive="/"/>
+    <dir sourceOnDisk="/home/sagore/Webapp/target/classes" targetInArchive="/WEB-INF/classes"/>
+    <file sourceOnDisk="/home/sagore/Webapp/target/liberty-maven/resources/META-INF/MANIFEST.MF" targetInArchive="/META-INF/MANIFEST.MF"/>
+</archive>

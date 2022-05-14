@@ -1,0 +1,21 @@
+********************************************************************************
+product = Open Liberty 22.0.0.5 (wlp-1.0.64.cl220520220425-0301)
+wlp.install.dir = /home/sagore/Webapp/target/liberty/wlp/
+server.output.dir = /home/sagore/Webapp/target/liberty-alt-output-dir/WebappServer/
+java.home = /usr/lib/jvm/java-11-openjdk-amd64
+java.version = 11.0.15
+java.runtime = OpenJDK Runtime Environment (11.0.15+10-Ubuntu-0ubuntu0.20.04.1)
+os = Linux (5.13.0-40-generic; amd64) (en_IN)
+process = 7048@sagore-Virtual-Machine
+Classpath = /home/sagore/Webapp/target/liberty/wlp/bin/tools/ws-server.jar
+Java Library path = /usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+********************************************************************************
+[14/05/22, 20:21:55:890 IST] 0000000b com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0001I: The server WebappServer has been launched.
+[14/05/22, 20:22:01:689 IST] 0000000b com.ibm.ws.kernel.launch.internal.FrameworkManager           I CWWKE0002I: The kernel started after 8.171 seconds
+[14/05/22, 20:22:02:404 IST] 0000001e com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0007I: Feature update started.
+[14/05/22, 20:22:03:774 IST] 0000001e com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0012I: The server installed the following features: [el-3.0, jsp-2.3, servlet-3.1].
+[14/05/22, 20:22:03:785 IST] 0000001e com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0008I: Feature update completed in 2.131 seconds.
+[14/05/22, 20:22:03:786 IST] 0000001e com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0026I: The server WebappServer is ready to build a smaller package.
+[14/05/22, 20:22:03:797 IST] 00000022 com.ibm.ws.runtime.update.internal.RuntimeUpdateManagerImpl  A CWWKE1100I: Waiting for up to 30 seconds for the server to quiesce.
+[14/05/22, 20:22:03:836 IST] 00000022 com.ibm.ws.runtime.update.internal.RuntimeUpdateManagerImpl  I CWWKE1101I: Server quiesce complete.
+[14/05/22, 20:22:04:389 IST] 0000000b com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0036I: The server WebappServer stopped after 10.907 seconds.
