@@ -1,0 +1,12 @@
+Launching WebappServer (Open Liberty 22.0.0.5/wlp-1.0.64.cl220520220425-0301) on OpenJDK 64-Bit Server VM, version 11.0.15+10-Ubuntu-0ubuntu0.20.04.1 (en_IN)
+[AUDIT   ] CWWKE0001I: The server WebappServer has been launched.
+[AUDIT   ] CWWKZ0058I: Monitoring dropins for applications.
+[AUDIT   ] CWWKT0016I: Web application available (default_host): http://localhost:9080/Webapp/
+[AUDIT   ] CWWKZ0001I: Application Webapp started in 1.984 seconds.
+[AUDIT   ] CWWKF0012I: The server installed the following features: [el-3.0, jsp-2.3, servlet-3.1].
+[AUDIT   ] CWWKF0011I: The WebappServer server is ready to run a smarter planet. The WebappServer server started in 14.658 seconds.
+[AUDIT   ] CWWKE0055I: Server shutdown requested on Saturday, 14 May, 2022 at 8:22 PM. The server WebappServer is shutting down.
+[AUDIT   ] CWWKE1100I: Waiting for up to 30 seconds for the server to quiesce.
+[AUDIT   ] CWWKT0017I: Web application removed (default_host): http://localhost:9080/Webapp/
+[AUDIT   ] CWWKZ0009I: The application Webapp has stopped successfully.
+[AUDIT   ] CWWKE0036I: The server WebappServer stopped after 32.988 seconds.
